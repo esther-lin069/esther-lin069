@@ -2,4 +2,7 @@
 
 Welcome to my page.
 
-*lastest homwork link: [0818 /php-session](https://github.com/esther-lin069/cyc-homework/tree/master/0818-session)*
+*專案資料夾連結:* <br>
+* [PID-購物車系統](https://github.com/esther-lin069/PID-Assignment)
+* [RD1-個人氣象站](https://github.com/esther-lin069/RD1-Assignment)
+* [RD5-線上網銀系統](https://github.com/esther-lin069/RD5-Assignment)
